@@ -185,7 +185,6 @@ bower_components
 .bower-tmp
 /public/data/mind.json
 
-.env
 
 ### Intellij ###
 .idea/
